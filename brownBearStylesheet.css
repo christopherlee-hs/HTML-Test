@@ -1,0 +1,18 @@
+* {
+    font-family: Roboto, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: #FFF;
+    font-size: 70px;
+    font-weight: 900;
+    padding-top: 300px;
+}
+
+.bear-playing {
+    background-image: url("http://yourshot.nationalgeographic.com/u/ss/fQYSUbVfts-T7pS2VP2wnKyN8wxywmXtY0-FwsgxpzzOs4cyfbkBsa5kUlDawwF7Yg9roQS_ScoSMH6MwU9_/");
+    height: 685px;
+    width: 960px;
+    background-position: bottom center;
+}
